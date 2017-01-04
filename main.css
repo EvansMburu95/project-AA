@@ -1,0 +1,55 @@
+
+.navbar-brand p
+{
+    
+color: white;
+  font-size: 1.0em;  
+}
+#homepage
+{
+
+
+    position: fixed;
+    
+}
+.well
+{
+    border-radius: 0%;
+    background-color: #383535;
+    color: white;
+    
+}
+
+.list-group .active
+{
+    background-color: #383535;
+    border-color: #383535;
+}
+.list-group .active:hover
+{
+    background-color: #2a2929;
+    border-color:#2a2929;
+}
+
+
+.navbar-nav
+{
+    
+color: white;
+    font-size: 1.2em;
+}
+
+#fot
+{
+    
+    padding: 40px 10px 40px 10px;
+    background-color: #2e2c2c;
+}
+p{
+    color:white;
+}
+.fa
+{
+color: white;}
+
+
